@@ -32,7 +32,6 @@ terraform-datadog-baseline/
 │   ├── alb/
 │   ├── ecs-fargate/
 │   ├── lambda/
-│   └── ec2/
 │
 ├── examples/
 │   ├── eks/
